@@ -35,6 +35,12 @@ body {
     color: #776e65;
 }
 
+h1 {
+    font-size: 45px;
+    font-weight: bold;
+    color: #776e65;
+}
+
 #game-info {
     display: flex;
     justify-content: center;
